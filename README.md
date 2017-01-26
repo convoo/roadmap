@@ -86,18 +86,18 @@ An element that displays social links with SVG icons
 
 An element to add more animations to Neon Animations Runner.
 
-### Planned MVP's:
- 
-### 4 [Photour]
+### Planned MVP's
+
+#### 4 [Photour]
 
 An MVP that allows a user to sign in and upload images, the image will be displayed with a thumbnail and a link to the source.
 Images containing pornographic content will be detected.
- 
-### 7 [Spredd]
+
+#### 7 [Spredd]
 
 An MVP to allow users to create markdown articles with images, each article will have its own route. Users to have a profile page.
- 
-### 12 [Cuple]
+
+#### 12 [Cuple]
 
 An MVP to build a site that randomly puts the user into a real-time video session with another user
  
@@ -105,8 +105,8 @@ An MVP to build a site that randomly puts the user into a real-time video sessio
 
 We continue to value and welcome all contributions and feedback to the Convoo components. And we would like to especially thank the following people:
 
-[LM450N] (Mason Louchart) - for significant contribution and refactoring [Login-Fire]
-[polinom] (Igor Polynets) - for contributions to the email + password component of [Login-Fire]
+- [LM450N] (Mason Louchart) - for significant contribution and refactoring [Login-Fire]
+- [polinom] (Igor Polynets) - for contributions to the email + password component of [Login-Fire]
 
 Join the conversation over at [Gitter]
 
