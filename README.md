@@ -36,24 +36,28 @@ Project ordering is described using a number wherever applicable, and * wherever
 
 A collection of elements that work with firebase.
 
-#### 1 [Login-Fire]
+#### 1 [Holding-Fire]
+
+An element to set up a holding page and store emails in firebase.
+
+#### 2 [Login-Fire]
 
 A collection of elements for user authentication with firebase.
 
-#### 2 [Presence-Fire]
+#### 3 [Presence-Fire]
 
 - An element that saves the presence of a user at a route and displays all other users at that route.
 
-#### 3 [File-Fire]
+#### 4 [File-Fire]
 
 An element that uploads files to firebase storage, images can be resized multiple times and a small base64 thumbnail created, returns two values a file path and if an image is uploaded a base 64 thumbnail.
 Compatible with Form-Fire.
 
-#### 5 [Form-Fire]
+#### 6 [Form-Fire]
 
 An element that adds objects to firebase from a form.
 
-#### 6 [Report-Fire]
+#### 7 [Report-Fire]
 
 A collection of elements for reporting, displaying and unpublishing reported content
 
@@ -64,19 +68,19 @@ A collection of elements for reporting, displaying and unpublishing reported con
 
 A collection of elements utilizing WebRTC for capturing and displaying audio/video.
 
-#### 8 [Webrtc-Stream]
+#### 9 [Webrtc-Stream]
 
 An element to capture the user's webcams audio and/or video steam.
 
-#### 9 [Live-Video]
+#### 10 [Live-Video]
 
 An element to display user webcam audio/video stream.
 
-#### 10 [Socket-Connect]
+#### 11 [Socket-Connect]
 
 An element to interface with socket.io.
 
-#### 11 [Webrtc-Channel]
+#### 12 [Webrtc-Channel]
 
 An element to manage webrtc audio/video streams accross a route.
 
@@ -94,16 +98,16 @@ An element to add more animations to Neon Animations Runner.
 
 ### Planned MVP's
 
-#### 4 [Photour]
+#### 5 [Photour]
 
 An MVP that allows a user to sign in and upload images, the image will be displayed with a thumbnail and a link to the source.
 Images containing pornographic content will be detected and removed.
 
-#### 7 [Spredd]
+#### 8 [Spredd]
 
 An MVP to allow users to create markdown articles with images, each article will have its own route. Users to have a profile page.
 
-#### 12 [Cuple]
+#### 13 [Cuple]
 
 An MVP to build a site that randomly puts the user into a real-time video session with another user
  
@@ -118,6 +122,7 @@ Join the conversation over at [Gitter]
 
    [Convoo]: <https://convoo.me>
    [Convoo-Fire]: <https://github.com/convoo/convoo-fire>
+   [Holding-Fire]: <https://github.com/convoo/holding-fire>
    [Login-Fire]: <https://github.com/convoo/login-fire>
    [Presence-Fire]: <https://github.com/convoo/presence-fire>
    [Social-Links]: <https://github.com/convoo/social-links>
