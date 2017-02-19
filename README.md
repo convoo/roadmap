@@ -1,5 +1,22 @@
 # Convoo
 
+
+<p align="center">
+  <a href="https://convoo.me" target="_blank"><img alt="Convoo" src="Convoo.png" width="300"></a>
+</p>
+
+<p align="center">
+Learn something new from every individual
+</p>
+
+<p align="center">
+  <a href="http://waffle.io/convoo/roadmap" target="_blank"><img src="https://badge.waffle.io/convoo/roadmap.svg?label=In%20Progress&title=In%20Progress"></a>
+  <a href="https://gitter.im/convoo/General" target="_blank"><img src="https://img.shields.io/badge/gitter-join%20chat-brightgreen.svg"></a>
+  <a href="https://www.webcomponents.org/author/convoo" target="_blank"><img src="https://img.shields.io/badge/webcomponents.org-published-blue.svg"></a>
+</p>
+
+---
+
 [Convoo] is an initiative to make learning and sharing easier and more enjoyable than ever. After exploring a number
 of databases and frameworks we settled on Firebase and Polymer, as we explored Polymer a number of key web components for Convoo became
 evident. The plan is to build the web components we need and then wire them together in the future form a final Convoo application.
