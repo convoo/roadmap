@@ -1,6 +1,6 @@
 # Convoo
 
-[Convoo](https://convoo.me) is an initiative to make learning and sharing easier and more enjoyable than ever. After exploring a number
+[Convoo] is an initiative to make learning and sharing easier and more enjoyable than ever. After exploring a number
 of databases and frameworks we settled on Firebase and Polymer, as we explored Polymer a number of key web components for Convoo became
 evident. The plan is to build the web components we need and then wire them together in the future form a final Convoo application.
 This vision has evolved to create a collection of reusable web components that will allow developers to rapidly create real-time applications.
@@ -99,6 +99,7 @@ We continue to value and welcome all contributions and feedback to the Convoo co
 
 Join the conversation over at [Gitter]
 
+   [Convoo]: <https://convoo.me>
    [Convoo-Fire]: <https://github.com/convoo/convoo-fire>
    [Login-Fire]: <https://github.com/convoo/login-fire>
    [Presence-Fire]: <https://github.com/convoo/presence-fire>
