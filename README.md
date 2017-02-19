@@ -1,12 +1,12 @@
 # Convoo
 
-Convoo started out as a conversational application, after exploring a number of databases and frameworks we settled on Firebase and Polymer,
-as we explored Polymer a number of key web components for Convoo became evident. The plan is to build the web components we need and then
-wire them together to form a final Convoo application. This vision has evolved to create a collection of reusable web components that will
-allow developers to rapidly create real-time applications.
+[Convoo](https://convoo.me) is an initiative to make learning and sharing easier and more enjoyable than ever. After exploring a number
+of databases and frameworks we settled on Firebase and Polymer, as we explored Polymer a number of key web components for Convoo became
+evident. The plan is to build the web components we need and then wire them together in the future form a final Convoo application.
+This vision has evolved to create a collection of reusable web components that will allow developers to rapidly create real-time applications.
 
 As a result of building the first set of components we learned that to truly understand the requirements for each web component and to ensure
-they were interoperable we need to use them in real applications. This year we are going to create even more web components and launch a number
+they were interoperable we need to use them in real applications. We are going to create even more web components and launch a number
 of MVP's to showcase them working together.
 
 Upgrading new and existing components to Polymer 2 is eagerly anticipated.
@@ -21,13 +21,7 @@ A collection of elements that work with firebase.
 
 #### 1 [Login-Fire]
 
-A collection of elements for logging users in and out of an appliction.
-
-- login-fire
-- login-fire-social
-- login-fire-form
-- login-fire-button
-- logout-button
+A collection of elements for user authentication with firebase.
 
 #### 2 [Presence-Fire]
 
@@ -38,14 +32,9 @@ A collection of elements for logging users in and out of an appliction.
 An element that uploads files to firebase storage, images can be resized multiple times and a small base64 thumbnail created, returns two values a file path and if an image is uploaded a base 64 thumbnail.
 Compatible with Form-Fire.
 
-#### 5 [Form-Fire] 
+#### 5 [Form-Fire]
 
-A collection of elements for inserting text and image data to firebase database
-
-- A form element that discovers inputs with an id of 'input-fire' and saves the input name and value along with the user's ID and a publish flag to the firebase database at a path matching the forms name. Data can bes saved as a doocument or as a list.
-- A new input area that can preview markdown and show markdown tips. Data can bes saved as a doocument or as a list.
-- An element to display a firebase list or document, displaying each list items or documents markdown if detected, the list can be ordered asc or desc. New items can be displayed at the top or the bottom. The number of items to be fetched can be limited, Content to be optionally stored locally for offline viewing. Content will be optionally fetched if The publish flag is set.
-- CSV upload button to populate the same path as the form, the first row must contain matching names to the form inputs.
+An element that adds objects to firebase from a form.
 
 #### 6 [Report-Fire]
 
@@ -91,7 +80,7 @@ An element to add more animations to Neon Animations Runner.
 #### 4 [Photour]
 
 An MVP that allows a user to sign in and upload images, the image will be displayed with a thumbnail and a link to the source.
-Images containing pornographic content will be detected.
+Images containing pornographic content will be detected and removed.
 
 #### 7 [Spredd]
 
