@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-Learn something new from every individual
+Learn something new from everyone
 </p>
 
 <p align="center">
