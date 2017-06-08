@@ -115,7 +115,7 @@ An MVP to build a site that randomly puts the user into a real-time video sessio
 
 We continue to value and welcome all contributions and feedback to the Convoo components. And we would like to especially thank the following people:
 
-- [LM450N] (Mason Louchart) - for significant contribution and refactoring [Login-Fire]
+- [masonlouchart] (Mason Louchart) - for significant contribution and refactoring [Login-Fire]
 - [polinom] (Igor Polynets) - for contributions to the email + password component of [Login-Fire]
 
 Join the conversation over at [Gitter]
@@ -143,6 +143,6 @@ Join the conversation over at [Gitter]
    [Spredd]: <https://github.com/Spredd>
    [Cuple]: <https://github.com/Cuple>
 
-   [LM450N]: <https://github.com/LM450N>
+   [masonlouchart]: <https://github.com/masonlouchart>
    [polinom]: <https://github.com/polinom>
    [Gitter]: <https://gitter.im/convoo/General>
